@@ -1,2 +1,2 @@
 # python
-python simple script
+Scripts created afetr each python training
