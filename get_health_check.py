@@ -1,6 +1,6 @@
 import boto3
 
-session = boto3.session.Session(profile_name='infor-int')
+session = boto3.session.Session(profile_name='dexter-test')
 health=session.client(service_name='health',region_name='us-east-1')
 
 #Varibales 
